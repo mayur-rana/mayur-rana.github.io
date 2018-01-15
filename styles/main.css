@@ -1,10 +1,23 @@
+header {
+    
+}
+
 body {
-    background: greenyellow;
     font-family: arial;
 }
 h2 {
-    colour: #777;
+    background: greenyellow;
+    color: #555;
 }
 p {
     color: #777;
+    font-family: 'Kavivanar', cursive;
+}
+h1 {
+    background: greenyellow;
+    border: 3px solid green ;
+    border-radius: 10px ;
+    padding: 10px ;
+    
+
 }
